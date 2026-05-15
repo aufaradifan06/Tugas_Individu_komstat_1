@@ -4,7 +4,7 @@ summary(data_1)
 mean(data_1$mpg)
 
 #Nambahin standar deviasi
-sd(data_1)
+sd(data_1$mpg)
 
 
 
