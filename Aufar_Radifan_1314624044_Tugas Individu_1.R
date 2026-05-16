@@ -1,5 +1,6 @@
 #Aufar_Radifan_1314624044
-#Data Awal
+#Syntax awal
 data_1<-mtcars
 summary(data_1)
 mean(data_1$disp)
+
